@@ -12,8 +12,8 @@ Document/static deliverables can be found below.
 | [Plan1.pdf](/deliverables/Plan1.pdf) | Method selection and planning     | 10         |
 | [Risk1.pdf](/deliverables/Risk1.pdf) | Risk assessment and mitigation    | 10         |
 | [Impl1.pdf](/deliverables/Impl1.pdf) | Implementation                    | 25         |
-| [Req2.pdf](/deliverables/Req2.pdf)   | Requirements (A2)                 | -          |
-| [Arch2.pdf](/deliverables/Arch2.pdf) | Architecture (A2)                 | -          |
+| [Req2.pdf](/deliverables/Req2.pdf)   | Requirements(A2)                  | -          |
+| [Arch2.pdf](/deliverables/Arch2.pdf) | Architecture(A2)                  | -          |
 | [Plan2.pdf](/deliverables/Plan2.pdf) | Method selection and planning(A2) | -          |
 | [Risk2.pdf](/deliverables/Risk2.pdf) | Risk assessment and mitigation(A2)| -          |
 
