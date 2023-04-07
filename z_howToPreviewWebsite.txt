@@ -1,0 +1,5 @@
+Preview Markdown here: https://markdown-it.github.io/
+
+Simply copy the markdown of the webpage you want to test out to get a preview.
+This was a temporary measure to test what our markdown would look like until we became 
+familiar enough with the system to upload to github pages.

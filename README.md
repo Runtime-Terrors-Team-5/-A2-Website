@@ -1,13 +1,19 @@
-# Team 'Neves6' 6
+# Team 'Runtime Terrors' 5
 
-**Meowdy!**
+![Team5Logo](https://live.staticflickr.com/65535/52801079408_c58944cb5a.jpg)
 
-This is the main page for Team 6, going under the current operating nickname of 'Neves6'. Everthing can be found on their appropriate pages, as detailed below in the Page Links section.
+**Hello!**
+
+This is the main page for Team 5, going under the current operating nickname of 'Runtime Terrors'. 
+
+This website was initially put together by Team 6 'Neves' from which we have inherited it and extended it for the purposes of Assessment 2.
+
+Everything can be found on their appropriate pages, as detailed below in the Page Links section.
 
 ## Page Links
 
 | Page                             | Description                                    |
 |----------------------------------|------------------------------------------------|
 | [Deliverables](/deliverables.md) | Links to all attached deliverables             |
-| [Project Progression](/gantt.md) | Links to weekly versions of project Gantt chart|
-| [Cat Memes](/catmemes.md)        | Cat memes for motivation                       |
+| [Gantt Charts](/gantt.md) | Links to weekly versions of project Gantt chart|
+| [Game & Repository](/repo.md) | Links to ccurrent game version and repository|
