@@ -4,10 +4,10 @@ Provided by Team 5: Runtime Terrors
 | File                                 | Description                       |
 |--------------------------------------|-----------------------------------|
 | [url2.txt](/deliverables/url1.txt)   | Website URL                       |
-| [Change2.pdf](/deliverables/Change2.pdf)   | Change report                |
-| [Impl2.pdf](/deliverables/Impl2.pdf)   | Implementation                 |
-| [Test2.pdf](/deliverables/Test2.pdf)   | Testing                |
-| [CI2.pdf](/deliverables/CI2.pdf)   | Continuous Integration                  |
+| [Change2.pdf](/deliverables/Change2.pdf)   | Change report               |
+| [Impl2.pdf](/deliverables/Impl2.pdf)   | Implementation                  |
+| [Test2.pdf](/deliverables/Test2.pdf)   | Testing                         |
+| [CI2.pdf](/deliverables/CI2.pdf)   | Continuous Integration              |
 | [REPO](https://github.com/Runtime-Terrors-Team-5) | Team 5 GitHub Repository, Assessment 2|
 | [JAR](/deliverables/PiazzaPanic1.jar)  | Executable JAR |
 
@@ -18,6 +18,7 @@ Additional documentation for reference:
 | [Arch2.pdf](/deliverables/Arch2.pdf) | Architecture(A2)                  |
 | [Plan2.pdf](/deliverables/Plan2.pdf) | Method selection and planning(A2) |
 | [Risk2.pdf](/deliverables/Risk2.pdf) | Risk assessment and mitigation(A2)|
+| [Architecture Diagrams.md](/arch.md) | Links to architecture diagrams & related requirements |
 
 ## Assessment 1 Deliverables: 
 Provided by Team 6: Neves
@@ -30,7 +31,7 @@ Provided by Team 6: Neves
 | [Plan1.pdf](/deliverables/Plan1.pdf) | Method selection and planning     |
 | [Risk1.pdf](/deliverables/Risk1.pdf) | Risk assessment and mitigation    |
 | [Impl1.pdf](/deliverables/Impl1.pdf) | Implementation                    |
-| [CODE](/deliverables/PiazzaPanic1.zip) | Code           |
+| [REPO](https://github.com/Neves6)    | Team 6 GitHub Repository, Assessment 1 |
 | [JAR](/deliverables/PiazzaPanic1.jar)  | Executable JAR |
 
 
