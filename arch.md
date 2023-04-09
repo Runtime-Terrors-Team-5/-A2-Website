@@ -27,4 +27,14 @@ Provided by Team 5: Runtime Terrors
 | [Unlocking_Chefs.png](/arch/Unlocking_Chefs.png)       | UR_CONTROL        |
 | [Unlocking_Stations.png](/arch/Unlocking_Stations.png) | UR_CONTROL        |
 
+##Justification:
+
+We have extended the existing methods used by the previous team as it allowed them to create effective Sequence and Class UML Diagrams to represent the range of user requirements presented to them. We aim to replicate this by introducing new UML diagrams to represent those features and clearly link them to the related requirements.
+
+We wanted to trail the generated UML diagram post development in order to display the similarities and differences in the code base and show the growth and development of the project overtime.
+
+We did however, opt for PlantUML to create both Sequence and Class diagrams, whereas the previous team used a mixture of sequencediagram.org and PlantUML. This is because our team was already familiar with PlantUML and can efficiently create both Sequence and Class diagrams, therefore there was no need to learn additional software tools.
+
+Additional CRC Cards were not needed as the new features (such as adding a new station) are already represented by the existing CRC Cards.
+
 [← back to main page](/README.md)
