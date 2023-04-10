@@ -2,10 +2,16 @@
 
 Gannt charts for each week can be found below. T2, T3 stands for Term 2, Term 3 respectively.
 
-Anything with an ! preceeding it has not yet been linked.
-
 ## Assessment 2:
 Provided by Team 5: Runtime Terrors
+
+Right click and open in new tab for a clearer view of each Gantt.
+
+The larger bars at the top summarise the key activities occurring in this sprint and the smaller bars beneath represent the individual tasks occurring and the time and members allocated to them.
+Key:
+Green outline : Completed task
+Orange outline : Task in progress
+Red outline : Task yet to begin
 
 | Chart                                 	         | Date     | Focus                            |
 |----------------------------------------------------|----------|----------------------------------|

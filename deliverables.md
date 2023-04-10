@@ -18,7 +18,7 @@ Additional documentation for reference:
 | [Arch2.pdf](/deliverables/Arch2.pdf) | Architecture(A2)                  |
 | [Plan2.pdf](/deliverables/Plan2.pdf) | Method selection and planning(A2) |
 | [Risk2.pdf](/deliverables/Risk2.pdf) | Risk assessment and mitigation(A2)|
-| [Architecture Diagrams.md](/arch.md) | Links to architecture diagrams & related requirements |
+| [Architecture Diagrams.md](/arch.md) | Links to architecture diagrams and related requirements |
 
 ## Assessment 1 Deliverables: 
 Provided by Team 6: Neves

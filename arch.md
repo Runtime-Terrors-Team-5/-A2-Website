@@ -27,7 +27,7 @@ Provided by Team 5: Runtime Terrors
 | [Unlocking_Chefs.png](/arch/Unlocking_Chefs.png)       | UR_CONTROL        |
 | [Unlocking_Stations.png](/arch/Unlocking_Stations.png) | UR_CONTROL        |
 
-##Justification:
+## Justification:
 
 We have extended the existing methods used by the previous team as it allowed them to create effective Sequence and Class UML Diagrams to represent the range of user requirements presented to them. We aim to replicate this by introducing new UML diagrams to represent those features and clearly link them to the related requirements.
 
