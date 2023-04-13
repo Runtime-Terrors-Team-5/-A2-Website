@@ -22,10 +22,10 @@ The larger bars at the top summarise the key activities occurring in this sprint
 | ![T2week8.png](/gantt/T2week8.png) 		         | 02/03/23 | Refactoring A1 Code & Docs.      |
 | ![T2week9.png](/gantt/T2week9.png) 		         | 09/03/23 | IM Saving Progress & Test/CI Planning & SCRUM Review |
 | ![T2week10.png](/gantt/T2week10.png) 		         | 16/03/23 | IM Fail States/Reputation & Test/CI Setup |
-| ![SpringBreak(W1).png](/gantt/SpringBreak(W1).png) | 23/03/23 | IM Updated Customer Arrival/Recipies/Stations Test/CI Execution |
-| ![SpringBreak(W2).png](/gantt/SpringBreak(W2).png) | 30/03/23 | IM Powerups & Test/CI Execution & Cleanup for Break |
-| ![SpringBreak(W3).png](/gantt/SpringBreak(W2).png) | 06/04/23 | Spring Break Week |
-| ![SpringBreak(W4).png](/gantt/SpringBreak(W4).png) | 13/04/23 | IM Endless Mode & Test/CI Execution |
+| ![SpringBreakW1.png](/gantt/SpringBreakW1.png) | 23/03/23 | IM Updated Customer Arrival/Recipies/Stations Test/CI Execution |
+| ![SpringBreakW2.png](/gantt/SpringBreakW2.png) | 30/03/23 | IM Powerups & Test/CI Execution & Cleanup for Break |
+| ![SpringBreakW3.png](/gantt/SpringBreakW2.png) | 06/04/23 | Spring Break Week |
+| ![SpringBreakW4.png](/gantt/SpringBreakW4.png) | 13/04/23 | IM Endless Mode & Test/CI Execution |
 | ![T3week1.png](/gantt/T3week1.png) 		         | 20/04/23 | IM Endless Mode/Accessiblity & Test/CI Execution |
 | ![T3week2.png](/gantt/T3week2.png) 		         | 27/04/23 | Final Testing and Submission|
 
