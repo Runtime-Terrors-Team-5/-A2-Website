@@ -8,11 +8,11 @@ Provided by Team 5: Runtime Terrors
 Right click and open in new tab for a clearer view of each Gantt.
 
 Key:
-Green outline : Completed task
-Orange outline : Task in progress
-Red outline : Task yet to begin
-IM_ : Implementing... (feature name)
-CI_ : Continuous Integration
+Green outline : Completed task  
+Orange outline : Task in progress  
+Red outline : Task yet to begin  
+IM_ : Implementing... (feature name)  
+CI_ : Continuous Integration  
 The larger bars at the top summarise the key activities occurring in this sprint and the smaller bars beneath represent the individual tasks occurring and the time and members allocated to them.
 
 | Chart                                 	         | Date     | Focus                            |
