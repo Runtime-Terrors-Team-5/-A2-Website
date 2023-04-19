@@ -38,4 +38,5 @@ We did however, opt for PlantUML to create both Sequence and Class diagrams, whe
 Additional CRC Cards were not needed as the new features (such as adding a new station) are already represented by the existing CRC Cards.
 
 [← back to deliverables](/deliverables.md)
+
 [← back to main page](/README.md)

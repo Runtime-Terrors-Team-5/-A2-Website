@@ -18,4 +18,4 @@ Everything can be found on their appropriate pages, as detailed below in the Pag
 | [Gantt Charts](/gantt.md)        | Links to weekly versions of project Gantt chart       |
 | [Game & Repository](/repo.md)    | Links to current game version and repository          |
 | [Architecture Diagrams](/arch.md)| Links to architecture diagrams & related requirements |
-| [Testing → ](/test.md)           | Links to testing evidence                             |
+| [Testing](/test.md)              | Links to testing evidence                             |

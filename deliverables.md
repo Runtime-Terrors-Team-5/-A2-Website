@@ -20,11 +20,11 @@ Additional documentation/website pages for reference:
 | [Arch2.pdf](/deliverables/Arch2.pdf) | Architecture(A2)                  |
 | [Plan2.pdf](/deliverables/Plan2.pdf) | Method selection and planning(A2) |
 | [Risk2.pdf](/deliverables/Risk2.pdf) | Risk assessment and mitigation(A2)|
-| [Architecture.md](/arch.md) | Links to architecture diagrams and related requirements |
-| [Testing.md](/test.md) | Links to architecture diagrams and related requirements |
 
-[← Additional Architecture and related requirements &rarr ](/arch.md)
-[← back to main page](/test.md)
+Links to architecture diagrams and related requirements
+[Architecture →](/arch.md)
+Links to architecture diagrams and related requirements
+[Testing → ](/test.md)
 
 ## Assessment 1 Deliverables: 
 Provided by Team 6: Neves
