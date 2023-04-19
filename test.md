@@ -1,6 +1,8 @@
 # Testing
 
-Architecture Diagrams added for Assessment 2 have been listed below  and the user requirement relating to those diagrams.
+This page contains the tests performed either generated from the software or performed manually. Details on the methods and further evidence can be found in our software testing report:
+[Test2.pdf](/deliverables/Test2.pdf)
+
 
 ## Coverage Report
 

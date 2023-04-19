@@ -12,7 +12,7 @@ Provided by Team 5: Runtime Terrors
 | [JAR](/deliverables/PiazzaPanic1.jar)  | Executable JAR |
 
 
-Additional documentation for reference:
+Additional documentation/website pages for reference:
 
 | File                                 | Description                       |
 |--------------------------------------|-----------------------------------|
