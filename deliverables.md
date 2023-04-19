@@ -11,6 +11,7 @@ Provided by Team 5: Runtime Terrors
 | [REPO](https://github.com/Runtime-Terrors-Team-5) | Team 5 GitHub Repository, Assessment 2|
 | [JAR](/deliverables/PiazzaPanic1.jar)  | Executable JAR |
 
+
 Additional documentation for reference:
 
 | File                                 | Description                       |
@@ -19,7 +20,11 @@ Additional documentation for reference:
 | [Arch2.pdf](/deliverables/Arch2.pdf) | Architecture(A2)                  |
 | [Plan2.pdf](/deliverables/Plan2.pdf) | Method selection and planning(A2) |
 | [Risk2.pdf](/deliverables/Risk2.pdf) | Risk assessment and mitigation(A2)|
-| [Architecture Diagrams.md](/arch.md) | Links to architecture diagrams and related requirements |
+| [Architecture.md](/arch.md) | Links to architecture diagrams and related requirements |
+| [Testing.md](/test.md) | Links to architecture diagrams and related requirements |
+
+[← Additional Architecture and related requirements &rarr ](/arch.md)
+[← back to main page](/test.md)
 
 ## Assessment 1 Deliverables: 
 Provided by Team 6: Neves

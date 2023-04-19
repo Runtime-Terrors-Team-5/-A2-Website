@@ -45,11 +45,11 @@ Provided by Team 6: Neves
 | ![week3.jpg](/gantt/week3.jpg) 		       | 
 | ![week4.jpg](/gantt/week4.jpg) 		       | 
 | ![week5.jpg](/gantt/week5.jpg) 		       | 
-| ![WinterBreak(W6).jpg](/gantt/WinterBreak(W6).jpg)   |  
-| ![WinterBreak(W7).jpg](/gantt/WinterBreak(W7).jpg)   | 
-| ![WinterBreak(W8).jpg](/gantt/WinterBreak(W8).jpg)   | 
-| ![WinterBreak(W9).jpg](/gantt/WinterBreak(W9).jpg)   | 
-| ![WinterBreak(W10).jpg](/gantt/WinterBreak(W10).jpg) | 
+| ![WinterBreak(W6).jpg](/gantt/WinterBreakW6.jpg)   |  
+| ![WinterBreak(W7).jpg](/gantt/WinterBreakW7.jpg)   | 
+| ![WinterBreak(W8).jpg](/gantt/WinterBreakW8.jpg)   | 
+| ![WinterBreak(W9).jpg](/gantt/WinterBreakW9.jpg)   | 
+| ![WinterBreak(W10).jpg](/gantt/WinterBreakW10.jpg) | 
 | ![week11.jpg](/gantt/week11.jpg) 		       | 
 | ![week12.jpg](/gantt/week12.jpg) 		       | 
 | ![week13.jpg](/gantt/week13.jpg) 		       | 
