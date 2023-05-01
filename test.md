@@ -18,10 +18,10 @@ Includes snippits of codes with results, or links to the code where appropriate
 |-----------------------------|-------------------------|
 | [T_WinScreen.png](/test/T_WinScreen.png)| FR_SCORE_TRACKING | 
 | [T_SaveLoadA.png](/test/T_SaveLoadA.png)| FR_SAVE_GAME            | 
-| [T_MachineAndInventory] (https://github.com/Runtime-Terrors-Team-5/-A2-Active-Repo/blob/main/PiazzaPanic1/PiazzaPanic1-main/core/src/com/neves6/piazzapanic/AllMachinesTest.java)| FR_ITEM_REMOVAL |
-| [T_MachineAndInventory.png] (/test/T_MachineAndInventory.png)| FR_ITEM_REMOVAL |
+| [T_MachineAndInventory](https://github.com/Runtime-Terrors-Team-5/-A2-Active-Repo/blob/main/PiazzaPanic1/PiazzaPanic1-main/core/src/com/neves6/piazzapanic/AllMachinesTest.java)| FR_ITEM_REMOVAL |
+| [T_MachineAndInventory.png](/test/T_MachineAndInventory.png)| FR_ITEM_REMOVAL |
 | [T_UnlockStations.png](/test/T_UnlockStations.png)| FR_PROGRESS |
-| [T_PowerupA] (https://github.com/Runtime-Terrors-Team-5/-A2-Active-Repo/blob/main/PiazzaPanic1/PiazzaPanic1-main/core/src/com/neves6/piazzapanic/poweruptest.java)| FR_DIFFICULTY |
+| [T_PowerupA](https://github.com/Runtime-Terrors-Team-5/-A2-Active-Repo/blob/main/PiazzaPanic1/PiazzaPanic1-main/core/src/com/neves6/piazzapanic/poweruptest.java)| FR_DIFFICULTY |
 | [T_PowerupA.png](/test/T_PowerupA.png)| FR_DIFFICULTY | 
 | [T_Customers.png](/test/T_Customers.png)| FR_CUSTOMER_ARRIVAL     |
 | [T_LevelDifficulty.png](/test/T_LevelDifficulty.png)| FR_INCREASED_DIFFICULTY |
