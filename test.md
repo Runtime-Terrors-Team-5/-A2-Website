@@ -40,7 +40,7 @@ Covers manual test-cases, designed to test parts of code not covered by automati
 | [T_TutorialM.png](/test/T_TutorialM.png)| FR_DISPLAY_TUTORIAL, FR_TUTORIAL_SKIP | It is important for a human to test the tutorial to ensure it is suitable for gameplay |
 | [T_PowerupM.png](/test/T_PowerupM.png)| FR_DIFFICULY, FR_REPUTATION_POINTS | Involves collsion with randomly spawning powerups and thus need to test user cabability to do so |
 | [T_CustomerDisplayM.png](/test/T_CustomerDisplayM.png)| FR_RECIPE_DISPLAY, FR_ACTION_TIMER_BAR | Visual changes that benefit the user, need checking manually as they are random |
-| [T_DurationTimerM.png](/test/T_DurationTimer.png)| FR_DURATION_TIMER       | Can accurately ensure that the time is updated each second manually |
+| [T_DurationTimerM.png](/test/T_DurationTimerM.png)| FR_DURATION_TIMER       | Can accurately ensure that the time is updated each second manually |
 | [T_LeaderboardM.png](/test/T_LeaderboardM.png)| FR_UPDATE_LEADERBOARD | It is a quick check that can be done from the menu and was difficult to test whether it dynamically creates a leaderboard file |
 
 [← back to deliverables](/deliverables.md)
