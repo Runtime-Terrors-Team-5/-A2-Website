@@ -4,12 +4,12 @@ Provided by Team 5: Runtime Terrors
 | File                                 | Description                       |
 |--------------------------------------|-----------------------------------|
 | [url2.txt](/deliverables/url1.txt)   | Website URL                       |
-| [Change2.pdf](/deliverables/Change2.pdf)   | Change report               |
+| [Change2.pdf](/deliverables/Change2.pdf) | Change report                 |
 | [Impl2.pdf](/deliverables/Impl2.pdf)   | Implementation                  |
 | [Test2.pdf](/deliverables/Test2.pdf)   | Testing                         |
-| [CI2.pdf](/deliverables/CI2.pdf)   | Continuous Integration              |
+| [CI2.pdf](/deliverables/CI2.pdf)       | Continuous Integration          |
 | [REPO](https://github.com/Runtime-Terrors-Team-5) | Team 5 GitHub Repository, Assessment 2|
-| [JAR](/deliverables/PiazzaPanic1.jar)  | Executable JAR |
+| [JAR](/deliverables/PiazzaPanic2.jar)  | Executable JAR |
 
 
 Additional documentation/website pages for reference:

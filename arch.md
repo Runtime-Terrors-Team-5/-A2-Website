@@ -13,6 +13,7 @@ Provided by Team 5: Runtime Terrors
 | [Save_Classes.png](/arch/Save_Classes.png)                                             | UR_CONTINUE_2 |
 | [Screen_Classes.png](/arch/Screen_Classes.png)                                         | UR_FUNCTIONAL |
 | [Entire_Architecture_Diagram.png](/arch/Entire_Architecture_Diagram.png)               | For reference |
+| [IntelliGeneratedUML.png](/arch/IntellijGeneratedUML.png)                              | For reference |
 
 ## Sequence Diagrams:
 Provided by Team 5: Runtime Terrors
